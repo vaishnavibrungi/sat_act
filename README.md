@@ -38,7 +38,7 @@ Below are few articles that I have referred :\
 [**11 districts that subsidize full cost of SAT Test**](https://reports.collegeboard.org/archive/sat-suite-program-results/2019/benefits-sat-school-day#:~:text=In%202018%2D19%2C%2010%20states,than%20200%20school%20districts%20nationwide.![image-2.png](attachment:image-2.png)\))\
 [**Regional Affiliations**](https://www.collegeraptor.com/getting-in/articles/act-sat/act-vs-sat-which-college-entrance-exam-is-more-popular/#:~:text=Short%20answer%3A%20there's%20no%20preference,BOTH%20the%20ACT%20and%20SAT.![image-3.png](attachment:image-3.png)\))\
 [**ACT**](https://en.wikipedia.org/wiki/ACT_(test))\
-[**SAT**]((https://en.wikipedia.org/wiki/SAT))
+[**SAT**](https://en.wikipedia.org/wiki/SAT)
 
 
 # **Data Dictionary**
