@@ -10,7 +10,7 @@ This analysis also aims  to make recommendations to the College Board for strate
 Errors such as missing values were fixed \
 Percentage symbol was removed and converted the datatype to float \
 Two rows containing missing values were deleted \
-Created New Column called "sat_score_percentage"
+Created New Column called "sat_score_percentage" \
 Renamed column names
 
 ## ACT 2019 Data Import and Cleaning
